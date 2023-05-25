@@ -1,7 +1,6 @@
 name: Review dependencies
 
 on:
-  - push
   - workflow_dispatch
   
 jobs:
